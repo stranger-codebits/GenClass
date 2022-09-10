@@ -1,6 +1,8 @@
 # GenClass - Producing classification rules using Grammatical Evolution #
 GenClass is a software entirely written in ANSI C++ that constructs classification programs in a C – like programming language in order to classify the input data, producing simple if – else rules. The software can be executed in parallel exploiting the modern Multi Core environments, using the OpenMP library.   GenClass is a Free Software covered by the [GPLv3+](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
+If you use this library please cite the relevant [paper](https://www.sciencedirect.com/science/article/pii/S2352711021001199).
+
 ## Building instructions ##
 ### Requirements ###
 
